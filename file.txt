@@ -1,2 +1,0 @@
-haloo guys
-ini training github action ya
